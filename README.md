@@ -14,7 +14,7 @@ A Análise de requisitos foi realizada com base em um documento já preparado pe
   - tblPizza - **Id** , idMassa, idSabor, idBorda, preco.
   - tblBebida - **Id**, descricao, preço.
   - tblCliente - **Id**, nome, celular, endereco.
-  - tblPedidos - **data**, idPizza, qtdePizzas, idBebida, qtdeBebidas, idCliente, preco.
+  - tblPedidos - **id**. data, idPizza, qtdePizzas, idBebida, qtdeBebidas, idCliente, preco.
   - tblFormadas - **hora**, data, idPizza, idPedido.
 
 ## Modelo Físico
